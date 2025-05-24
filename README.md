@@ -44,7 +44,3 @@ This project is licensed under the **GNU Affero General Public License v3.0 (AGP
 © 2025 Volodymyr Shevel
 You are free to use, modify, and distribute this software, but if you run a modified version of it over a network (e.g. as a web service), **you are required to make the source code available to users**.
 For more details, see the full license text in the [LICENSE](./LICENSE) file or visit [https://www.gnu.org/licenses/agpl-3.0.html](https://www.gnu.org/licenses/agpl-3.0.html).
-
-## Link to the deployment
-
-https://colibri-feed-app.web.app/feed
